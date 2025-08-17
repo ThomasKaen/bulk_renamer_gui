@@ -96,11 +96,6 @@ pyinstaller --onefile --windowed bulk_file_renamer_gui.py
 
 ---
 
-## 📄 License
-MIT — free to use and modify.
-
----
-
-## 👋 Hire / Contact
-I build small, useful tools that make messy workflows simple.  
-If you want a custom version or extra features, reach out via my Fiverr profile.
+📜 **License**: All Rights Reserved © 2025 ThomasKaen  
+This project is for personal/portfolio use only.  
+For commercial use or custom solutions, please contact me via [Fiverr](https://www.fiverr.com/thomas_kaen).
